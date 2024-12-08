@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=othytenk&count_private=true)
 <!--
 **OthyTenk/othytenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
