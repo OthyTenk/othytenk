@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=othytenk&count_private=true)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=othytenk&hide_progress=true)
 <!--
 **OthyTenk/othytenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=othytenk&hide_progress=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=othytenk&count_private=true)
 -->
